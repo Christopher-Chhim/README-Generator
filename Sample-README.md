@@ -2,17 +2,17 @@
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
   https://opensource.org/licenses/MIT
   ## Description
-  TEst
+  Test
   ## Table of Contents
   installation
   ## Installation
-  1
+  npm i
   ## Usage
-  1
+  Test
   ## Contributing
-  1
+  Test
   ## Tests
-  1
+  Test
 
   MIT License
 
