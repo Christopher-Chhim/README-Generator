@@ -1,7 +1,9 @@
 # README-Generator
+
 ## Description
 
 My motivation in developing this project was to become more familiar with node.js. Node.js is the first open-source runtime environment I have worked with and so I wanted to implement its functionality to generate a readme file. I am still new to writing readme files so this can enforce the inclusion of key sections (e.g., installation instructions, usage, contributing etc...), leading to more comprehensive documentation. This is my first time working with the back-end and working with a server-side framework. This problem helps me become more familiar with node.js while generating a professional readme file. This generator can also help simplify the process in writing readme files for those that are not familiar in doing so. It also serves as a template and can cater to different types of projects for anyone who is in need of it. I learned how to use inquirer and javascript to export functions to the index.js file to generate the markdown for my readme file. 
+
 ## Installation
 
 Download VSCode.
@@ -10,7 +12,8 @@ Download inquirer (npm install).
 
 ## Usage
 
-Run 'node index.js' on the terminal. Answer the prompt to your liking and choose the desired license. 
+Run 'node index.js' on the terminal. Answer the prompt to your liking and choose the desired license. Check to see if a sample README.md file has been generated and if it matches user input.
+For further instructions please refer to this link: (https://drive.google.com/file/d/1JOcXVV-yJe6nLiAT4vn6boulb35sA-6l/view)
 
 ## License
 

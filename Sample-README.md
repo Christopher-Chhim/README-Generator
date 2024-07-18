@@ -1,18 +1,18 @@
-# Test
+# README-Generator
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
   https://opensource.org/licenses/MIT
   ## Description
-  Test
+  A professional readme file that serves as a template for anyone who is in need of it. It sets the standard for what a readme file should look like and can appeal for a wide variety of projects, meaning it is very flexible.
   ## Table of Contents
   installation
   ## Installation
   npm i
   ## Usage
-  Test
+  The purpose of this project was to become familiar with node.js and knowing how to navigate through the back-end for the first time.
   ## Contributing
-  Test
+  The user can type their own questions or add any sections to the readme they believe is necessary for future projects
   ## Tests
-  Test
+  node index.js
 
   MIT License
 
