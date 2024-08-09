@@ -13,7 +13,7 @@ Download inquirer (npm install).
 ## Usage
 
 Run 'node index.js' on the terminal. Answer the prompt to your liking and choose the desired license. Check to see if a sample README.md file has been generated and if it matches user input.
-For further instructions please refer to this link: (https://drive.google.com/file/d/1JOcXVV-yJe6nLiAT4vn6boulb35sA-6l/view)
+For further instructions please refer to this link: (https://drive.google.com/file/d/1YLot0EpEWWH255ZFLZi_tG3ZIgylGwNm/view)
 
 ## License
 
